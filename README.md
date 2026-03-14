@@ -1,1 +1,1 @@
-# Pharmaceutical-Stock-Management-System 
+# Pharmaceutical Stock Management System 
